@@ -1,5 +1,12 @@
-## Hi there 👋
+# Victor
 
+Quantitative finance tools and algorithmic trading systems.
+Interested in ML, statistics, and markets.
+
+**Stack:** Python · NumPy · PyTorch · Black-Scholes · Monte Carlo
+
+📌 Check out [options_montecarlo](https://github.com/v-he/options_montecarlo) 
+   and [tradegpt](https://github.com/v-he/tradegpt)
 <!--
 **v-he/v-he** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
