@@ -1,4 +1,4 @@
-# Victor
+# vhe
 
 Quantitative finance tools and algorithmic trading systems.
 Interested in ML, statistics, and markets.
